@@ -1,6 +1,6 @@
-# driving_log
+# Driving Log
 
-A new Flutter application.
+Log your hours driving in order to reach the 50 hour minimum to get a license.
 
 ## Getting Started
 
