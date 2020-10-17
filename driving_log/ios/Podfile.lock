@@ -1,0 +1,75 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_full_pdf_viewer (1.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - location (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - printing (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_full_pdf_viewer (from `.symlinks/plugins/flutter_full_pdf_viewer/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - printing (from `.symlinks/plugins/printing/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+    - GoogleMaps
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_full_pdf_viewer:
+    :path: ".symlinks/plugins/flutter_full_pdf_viewer/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  printing:
+    :path: ".symlinks/plugins/printing/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_full_pdf_viewer: 1b65139fc3236cde300ba6bea2a72669cb07f2e6
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  google_maps_flutter: 78a52114c898b42ea647919679a4c58b70abe876
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  printing: 341873b2b3771c7226e301bfa4fc608e8ac60a30
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.7.5
