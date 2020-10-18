@@ -10,9 +10,7 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="driving_log"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDnN8nYwUepJGgmmps7T3k7t-V9f2ezDQE"/>
-
+  
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
