@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Better-World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyFirstApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dart_pdf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter-flashcards" vcs="Git" />
+  </component>
+</project>

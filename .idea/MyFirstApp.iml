@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../MyFirstApp/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../MyFirstApp/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../MyFirstApp/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../MyFirstApp/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../MyFirstApp/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../MyFirstApp/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../MyFirstApp/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Better-World/minnehack_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Better-World/minnehack_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/MyFirstApp/content_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/MyFirstApp/content_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/adjective_name/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/adjective_name/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animate_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animate_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/content_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/content_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/content_card2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/content_card2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/covid_19/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/covid_19/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/pdf/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/pdf/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/printing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/printing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/printing/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/printing/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_pdf/test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/driving_log/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/driving_log/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-flashcards/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-flashcards/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_demo2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_demo2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_navigation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/screen_navigation/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
