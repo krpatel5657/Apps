@@ -1,6 +1,6 @@
 # Driving Log
 
-Log your hours driving in order to reach the 50 hour minimum to get a license. Demonstration video: https://youtu.be/a7wJVnm3K6E;
+Log your hours driving in order to reach the 50 hour minimum to get a license. Demonstration video: https://youtu.be/a7wJVnm3K6E.
 
 ## Getting Started
 
